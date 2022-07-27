@@ -1,1 +1,2 @@
 new on master
+second line on master
